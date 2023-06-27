@@ -1,0 +1,2 @@
+print("tehzib")
+print("Pakkaaaa")
